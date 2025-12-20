@@ -75,4 +75,4 @@
 
 ---
 
-**Develop & Analyze by**: [사용자 이름 or 학번]
+**Develop & Analyze by**: [202102094 오성민]
